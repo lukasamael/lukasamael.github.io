@@ -1,4 +1,4 @@
-baseURL = "https://lukasamael.github.io/"
+baseURL = "https://luxstories.github.io/"
 languageCode = "en"
 defaultContentLanguage = "en"
 
@@ -15,7 +15,7 @@ disableKinds = ["taxonomy", "term"]
 
   links = [
     { email = "mailto:drsatanic@hotmail.com" },
-    { link = "https://lukasamael.github.io/" },
+    { link = "https://luxstories.github.io/" },
     # { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
     # { apple = "https://www.apple.com" },
     # { bandcamp = "https://username.bandcamp.com" },
@@ -27,8 +27,8 @@ disableKinds = ["taxonomy", "term"]
     # { facebook = "https://facebook.com/username" },
     # { flickr = "https://www.flickr.com/photos/username/" },
     # { foursquare = "https://foursquare.com/username" },
-    { github = "https://github.com/lukasamael" },
-    { gitlab = "https://gitlab.com/lukasamael" },
+    { github = "https://github.com/luxstories" },
+    { gitlab = "https://gitlab.com/luxstories" },
     # { google = "https://www.google.com/" },
     # { instagram = "https://instagram.com/username" },
     # { keybase = "https://keybase.io/username" },
