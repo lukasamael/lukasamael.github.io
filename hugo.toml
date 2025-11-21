@@ -3,7 +3,7 @@ languageCode = "en"
 defaultContentLanguage = "en"
 
 title = "Lukas Samael"
-copyright = "Copy, _right_ :thinking_face:"
+# copyright = "Copy, _right_ :thinking_face:"
 
 enableEmoji = true
 disableKinds = ["taxonomy", "term"]
