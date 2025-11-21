@@ -1,7 +1,7 @@
-# Readme.md
+# [Lukas Samael](https://lukasamael.github.io)
 
 <div align="center">
-  <h1> <img src=https://luxbook.github.io/@luxbook width="32px"/> Lux-Book </h1>
+  <h1> <img src="https://upld.zone.id/uploads/3fiqg9qiq/logo.webp" width="32px"/> Lux-Book </h1>
 </div>
 
 # About
