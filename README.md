@@ -4,13 +4,21 @@
   <h1> <img src="https://upld.zone.id/uploads/3fiqg9qiq/logo.webp" width="32px"/> Lux-Book </h1>
 </div>
 
+-----
+
 # About
 
-- Book of MTLG-Group. Europe/Germany. Two Major Branches; 1. Lux-Awesomes. 2. GraveNation.
+- Book of MTLG-Group.
+- Europe/Germany.
+- Two Major Branches;
+     1. Lux-Awesomes.
+     1. GraveNation.
+-----
 
 ## Website is Live : [https://luxbook.github.io](https://luxbook.github.io)
+-----
 
-# Screenshots
+## Screenshots
 
 ![screenshot](https://upld.zone.id/uploads/3fiqg9qiq/image.webp)
 
@@ -18,7 +26,9 @@
 
 ![screenshot](https://upld.zone.id/uploads/3fiqg9qiq/logo.webp)
 
-# Tech Stack
+-----
+
+## Tech Stack
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white&style=plastic)
 
@@ -36,6 +46,13 @@
 
 ![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white&style=plastic)
 
+-----
+## Copyright
 
+* This page is under [MIT License](./LICENSE)
 
-<!-- made using https://lucathar.site -->
+<div align="center">
+  <p><b>Proudly</b> ❤️ <i><b>Made By</b></i> 👉
+    <a href="https://lucathar.site" rel="org-url">lucathar.site</a> 👈
+  </p>
+</div>
